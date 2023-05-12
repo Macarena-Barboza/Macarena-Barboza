@@ -1,4 +1,4 @@
-<img alt="Macarena Barboza Front-End Developer" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img alt="Macarena Barboza Front-End Developer" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" height="300">
 
 ## Hola! me llamo Macarena Barboza <sub><img alt="html" height="33" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></sub>
 
