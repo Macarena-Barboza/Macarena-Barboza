@@ -51,8 +51,6 @@
 
 </p>
 
-<br>
-
 <h2><img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" alt="" width="70" height="60"/> Contáctame: </h2>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" width="30" height="24"/> <a href="https://www.linkedin.com/in/macarena-barboza/"><sup>Linkedin</sup></a>  
