@@ -42,13 +42,13 @@
 <img  alt="HTML" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        
 <img  alt="CSS" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-       
+     
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
          
 
 </sub>
 <p align="center">
- <sup>React Native</sup><sup>        JavaScript</sup> <sup>        Sass</sup> <sup>         Tailwind</sup> <sup>       HTML5</sup> <sup>          CSS</sup> <sup>           Figma</sup> 
+ <sup>React Native</sup><sup>       JavaScript</sup> <sup>        Sass</sup> <sup>         Tailwind</sup> <sup>         HTML5</sup> <sup>            CSS</sup> <sup>            Figma</sup> 
 </p>
 
 <br>
