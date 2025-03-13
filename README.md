@@ -3,7 +3,7 @@
 ## Hola! me llamo Macarena Barboza <sub><img alt="html" height="33" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></sub>
 
 <div>
-<p>Soy <strong>FullStack Developer</strong> y <strong>UI Designer</strong>, me divierto diseñando aplicaciones únicas y atractivas, después plasmarlo a código que sean intuitiva y funcionales.</p>
+<p>Soy <strong>Frontend Developer</strong> y <strong>UI Designer</strong>, me divierto diseñando aplicaciones únicas y atractivas, después plasmarlo a código que sean intuitiva y funcionales.</p>
 <p>Siempre estoy motivada para desarrollar constantemente mis habilidades y crecer profesionalmente.</p>
 </div>
 <br>
@@ -27,7 +27,7 @@
 <img alt="Firebase" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 </sub> 
 <p align="center">
-<sup>TypeScript</sup>  <sup>     Next.js</sup> <sup>        React.js</sup> <sup>      Node.js</sup> <sup>         Express</sup> <sup>       MySQL</sup>  <sup>        Firebase</sup>
+<sup>TypeScript</sup>  <sup>     Next.js</sup> <sup>        React.js</sup> <sup>      Node.js</sup> <sup>          Express</sup> <sup>        MySQL</sup>  <sup>          Firebase</sup>
 </p>
 <p align="center">
 <sub>
@@ -48,7 +48,7 @@
 
 </sub>
 <p align="center">
- <sup>React Native</sup><sup>       JavaScript</sup> <sup>        Sass</sup> <sup>         Tailwind</sup> <sup>         HTML5</sup> <sup>             CSS</sup> <sup>            Figma</sup> 
+ <sup>React Native</sup><sup>       JavaScript</sup> <sup>         Sass</sup> <sup>          Tailwind</sup> <sup>          HTML5</sup> <sup>             CSS</sup> <sup>           Figma</sup> 
 </p>
 
 <br>
